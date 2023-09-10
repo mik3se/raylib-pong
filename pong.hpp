@@ -2,7 +2,7 @@
 // Created by Michael Reyes on 8/28/23.
 //
 
-#include "/usr/local/Cellar/raylib/4.5.0/include/raylib.h"
+#include "raylib.h"
 #include <iostream>
 #include <cmath>
 
